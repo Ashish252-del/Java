@@ -1,0 +1,19 @@
+package operators;
+
+public class Relationaloperators {
+
+	public static void main(String[] args) {
+		
+		 int a = 10; int b = 20;
+		 System.out.println("a == b = " + (a == b) );
+		 System.out.println("a != b = " + (a != b) );
+		 System.out.println("a > b = " + (a > b) );
+		 System.out.println("a < b = " + (a < b) );
+		 System.out.println("b >= a = " + (b >= a) );
+		 System.out.println("b <= a = " + (b <= a) ); 
+		 System.out.println("a+b > 63 "+ ((a+b)>63));
+		 
+		 
+	}
+
+}
